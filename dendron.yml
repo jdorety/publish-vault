@@ -119,7 +119,7 @@ publishing:
             - vault
             - ato-vault
 site:
-    siteUrl: https://jdorety.github.io/ato-vault/
+    siteUrl: https://jdorety.github.io/publish-vault/
     siteRootDir: docs
     siteIndex: talks
     siteHierarchies:
